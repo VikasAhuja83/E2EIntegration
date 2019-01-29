@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="85770" started-at="2019-01-29T15:28:04Z" finished-at="2019-01-29T15:29:30Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="85770" started-at="2019-01-29T15:28:04Z" finished-at="2019-01-29T15:29:30Z">
+      <class name="org.automation.testingworld.testcases.TC_001_ValidateLoginFunctionality_dataproviderinSeperateclass_with_Excel">
+        <test-method status="PASS" signature="initiateDriverInstance()[pri:0, instance:org.automation.testingworld.testcases.TC_001_ValidateLoginFunctionality_dataproviderinSeperateclass_with_Excel@7d9d1a19]" name="initiateDriverInstance" is-config="true" duration-ms="17809" started-at="2019-01-29T15:28:06Z" finished-at="2019-01-29T15:28:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateDriverInstance -->
+        <test-method status="PASS" signature="tc_001_login_functionality(java.lang.String, java.lang.String)[pri:0, instance:org.automation.testingworld.testcases.TC_001_ValidateLoginFunctionality_dataproviderinSeperateclass_with_Excel@7d9d1a19]" name="tc_001_login_functionality" duration-ms="9658" started-at="2019-01-29T15:28:24Z" data-provider="Excel" finished-at="2019-01-29T15:28:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[name1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[nass1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_001_login_functionality -->
+        <test-method status="PASS" signature="closeDriverInstance()[pri:0, instance:org.automation.testingworld.testcases.TC_001_ValidateLoginFunctionality_dataproviderinSeperateclass_with_Excel@7d9d1a19]" name="closeDriverInstance" is-config="true" duration-ms="662" started-at="2019-01-29T15:28:34Z" finished-at="2019-01-29T15:28:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriverInstance -->
+        <test-method status="PASS" signature="initiateDriverInstance()[pri:0, instance:org.automation.testingworld.testcases.TC_001_ValidateLoginFunctionality_dataproviderinSeperateclass_with_Excel@7d9d1a19]" name="initiateDriverInstance" is-config="true" duration-ms="10462" started-at="2019-01-29T15:28:34Z" finished-at="2019-01-29T15:28:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateDriverInstance -->
+        <test-method status="PASS" signature="tc_001_login_functionality(java.lang.String, java.lang.String)[pri:0, instance:org.automation.testingworld.testcases.TC_001_ValidateLoginFunctionality_dataproviderinSeperateclass_with_Excel@7d9d1a19]" name="tc_001_login_functionality" duration-ms="5055" started-at="2019-01-29T15:28:45Z" data-provider="Excel" finished-at="2019-01-29T15:28:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[name2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[nass2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_001_login_functionality -->
+        <test-method status="PASS" signature="closeDriverInstance()[pri:0, instance:org.automation.testingworld.testcases.TC_001_ValidateLoginFunctionality_dataproviderinSeperateclass_with_Excel@7d9d1a19]" name="closeDriverInstance" is-config="true" duration-ms="672" started-at="2019-01-29T15:28:50Z" finished-at="2019-01-29T15:28:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriverInstance -->
+        <test-method status="PASS" signature="initiateDriverInstance()[pri:0, instance:org.automation.testingworld.testcases.TC_001_ValidateLoginFunctionality_dataproviderinSeperateclass_with_Excel@7d9d1a19]" name="initiateDriverInstance" is-config="true" duration-ms="14054" started-at="2019-01-29T15:28:50Z" finished-at="2019-01-29T15:29:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateDriverInstance -->
+        <test-method status="PASS" signature="tc_001_login_functionality(java.lang.String, java.lang.String)[pri:0, instance:org.automation.testingworld.testcases.TC_001_ValidateLoginFunctionality_dataproviderinSeperateclass_with_Excel@7d9d1a19]" name="tc_001_login_functionality" duration-ms="3946" started-at="2019-01-29T15:29:04Z" data-provider="Excel" finished-at="2019-01-29T15:29:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[name3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[nass3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_001_login_functionality -->
+        <test-method status="PASS" signature="closeDriverInstance()[pri:0, instance:org.automation.testingworld.testcases.TC_001_ValidateLoginFunctionality_dataproviderinSeperateclass_with_Excel@7d9d1a19]" name="closeDriverInstance" is-config="true" duration-ms="1470" started-at="2019-01-29T15:29:08Z" finished-at="2019-01-29T15:29:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriverInstance -->
+        <test-method status="PASS" signature="initiateDriverInstance()[pri:0, instance:org.automation.testingworld.testcases.TC_001_ValidateLoginFunctionality_dataproviderinSeperateclass_with_Excel@7d9d1a19]" name="initiateDriverInstance" is-config="true" duration-ms="14910" started-at="2019-01-29T15:29:10Z" finished-at="2019-01-29T15:29:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateDriverInstance -->
+        <test-method status="PASS" signature="tc_001_login_functionality(java.lang.String, java.lang.String)[pri:0, instance:org.automation.testingworld.testcases.TC_001_ValidateLoginFunctionality_dataproviderinSeperateclass_with_Excel@7d9d1a19]" name="tc_001_login_functionality" duration-ms="4470" started-at="2019-01-29T15:29:25Z" data-provider="Excel" finished-at="2019-01-29T15:29:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[name4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[nass4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_001_login_functionality -->
+        <test-method status="PASS" signature="closeDriverInstance()[pri:0, instance:org.automation.testingworld.testcases.TC_001_ValidateLoginFunctionality_dataproviderinSeperateclass_with_Excel@7d9d1a19]" name="closeDriverInstance" is-config="true" duration-ms="675" started-at="2019-01-29T15:29:29Z" finished-at="2019-01-29T15:29:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriverInstance -->
+      </class> <!-- org.automation.testingworld.testcases.TC_001_ValidateLoginFunctionality_dataproviderinSeperateclass_with_Excel -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
